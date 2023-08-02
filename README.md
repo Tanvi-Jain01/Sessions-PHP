@@ -15,11 +15,14 @@ These sessions have session variables that store all the necessary information i
 ## Page 1:
 ![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/97a54a67-d3e1-4772-a416-895512a4cccf)
 
+
+
 ## Page 2:
-![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/1d8c3e3e-aedb-4205-aaa8-c71b94a609c6)
+![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/5a07f593-dd51-4531-85ee-758d37f4b328)
 
 ## Page 3:
-![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/f81579f0-d9d7-4f20-bec8-28148a9e3692)
+![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/294c2e2f-dc4f-4886-bd63-d031cc8834d5)
+
 
 ## Page 4:
 ![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/f62836f9-3211-423b-a026-a3071190c9fe)
