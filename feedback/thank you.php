@@ -60,7 +60,7 @@ body
 <div id="submit" style="width:600px; height:50px; padding-top:15px; cursor:pointer;"> Hey there, Thankyou for your FeedBack!</div></h2>
 
 
-<form name="f1" action="fans.php" method="POST">
+<form name="f1" action="feedans.php" method="POST">
 <input type="submit" id="submit" value="DONE" name="done">
 
 </form>
