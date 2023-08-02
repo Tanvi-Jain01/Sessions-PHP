@@ -70,7 +70,8 @@ Start the Apache and MySQL services by clicking the "Start" buttons next to them
 ### Create a Project Folder:
 
 Create a new folder in the **"htdocs"** directory of your XAMPP installation. By default, this directory is located at `"C:\xampp\htdocs"` on Windows or `"/opt/lampp/htdocs/"` on Linux.
-Place your website files (HTML, CSS, JavaScript, etc.) inside this folder.
+Place your website files (HTML, CSS, JavaScript, etc.) inside this folder.   
+
 ![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/e5fdb379-bc8c-468a-a8db-30ef49d60bda)
 
 
@@ -79,6 +80,7 @@ Place your website files (HTML, CSS, JavaScript, etc.) inside this folder.
 Open your web browser and enter the following URL: "http://localhost/your-folder-name/home.html". Replace "your-folder-name" with the name of the folder you created in step 3 and "home.html" with the name of your main HTML file.
 For example, if your main HTML file is "index.html" and your folder name is "my-website," the URL will be "http://localhost/my-website/index.html".  
 In this case it's `TMJ` folder name and these are the files, gif's, photos present in these folder.
+
 ![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/85ba9f34-e7e7-429e-996c-d8d57e0f78fe)
 
 
