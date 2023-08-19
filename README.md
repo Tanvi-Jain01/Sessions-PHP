@@ -2,7 +2,7 @@
 ### **PHP Sessions**
 These sessions have session variables that store all the necessary information into a temporary file. By default, it will destroy this file when you close the website. Thus, to put it simply, a session in PHP helps in storing information about users and makes the data available to all the pages of a website or application until you close it.  
 
-### This repository is made to explore session in PHP, It takes feedback from user from 6 different pages and inserts it into database, As we are using multiple pages we can use cookies or session to store the data, Here I am using session to store the feedback of user.
+### This repository is made to explore session in PHP, It takes feedback from user from 6 different pages and inserts it into database, As we are using multiple pages we can either use cookies or session to store the data, Here I am using session to store the feedback of user.The main objective of this repository is to get familiar with the use of session techincally.
 
 ## Page 1:
 ![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/97a54a67-d3e1-4772-a416-895512a4cccf)
