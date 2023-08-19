@@ -1,16 +1,8 @@
 # Sessions-PHP
 ### **PHP Sessions**
 These sessions have session variables that store all the necessary information into a temporary file. By default, it will destroy this file when you close the website. Thus, to put it simply, a session in PHP helps in storing information about users and makes the data available to all the pages of a website or application until you close it.  
-#### Key Concepts:
 
-- **Session Start:** Sessions are started using the `session_start()` function at the beginning of each PHP page that needs to use session variables.
-
-- **Session Variables:** Session variables are used to store data that needs to be accessible across different pages of a website during a user's visit.
-
-- **Session ID:** Each user is assigned a unique session ID, typically stored in a cookie or passed through the URL. The session ID allows the server to associate data with a specific user.
-
-- **Session Super Global:** PHP provides a special super global array `$_SESSION` to store and access session variables.
-
+### This repository is made to explore session in PHP, It takes feedback from user from 6 different pages and inserts it into database, As we are using multiple pages we can use cookies or session to store the data, Here I am using session to store the feedback of user.
 
 ## Page 1:
 ![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/97a54a67-d3e1-4772-a416-895512a4cccf)
@@ -35,6 +27,16 @@ These sessions have session variables that store all the necessary information i
 
 ## Inserting feedback from multiple pages
 ![image](https://github.com/Tanvi-Jain01/Sessions-PHP/assets/123053700/c1612812-bdb9-4e7c-ba40-1fe94af1638d)
+
+#### Key Concepts:
+
+- **Session Start:** Sessions are started using the `session_start()` function at the beginning of each PHP page that needs to use session variables.
+
+- **Session Variables:** Session variables are used to store data that needs to be accessible across different pages of a website during a user's visit.
+
+- **Session ID:** Each user is assigned a unique session ID, typically stored in a cookie or passed through the URL. The session ID allows the server to associate data with a specific user.
+
+- **Session Super Global:** PHP provides a special super global array `$_SESSION` to store and access session variables.
 
 #### Working with Sessions:
 
